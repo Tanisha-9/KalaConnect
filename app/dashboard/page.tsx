@@ -3,7 +3,7 @@
 import { useAuth } from "@/components/auth-provider";
 import { useRouter } from "next/navigation";
 import { useEffect } from "react";
-import { Skeleton } from "@/components/ui/skeleton";
+import { skeleton } from "@/components/ui/skeleton";
 
 export default function DashboardPage() {
   const { user, loading } = useAuth();
