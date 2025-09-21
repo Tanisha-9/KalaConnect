@@ -1,0 +1,76 @@
+{
+  "placeholderImages": [
+    {
+      "id": "avatar-1",
+      "description": "Portrait of an artisan",
+      "imageUrl": "https://www.google.com/imgres?q=Portrait%20of%20an%20artisan&imgurl=https%3A%2F%2Fwww.selvedge.org%2Fcdn%2Fshop%2Fproducts%2Fworld-faircopy_bba4a7ac-4f23-4ea1-bee0-d866042d924e.jpg%3Fv%3D1602102763%26width%3D1445&imgrefurl=https%3A%2F%2Fwww.selvedge.org%2Fproducts%2Fartisan-portrait-image-samples%3Fsrsltid%3DAfmBOoptDnLDTNOYzgaNqF7-hdY1Cg8e8hlMuIeBSNhteFs4s7E07O6o&docid=n-rJNSdfRFs02M&tbnid=c5GeBaHCoLjt7M&vet=12ahUKEwjZ5qet_uiPAxXe4zgGHT-lDnEQM3oECBsQAA..i&w=1423&h=1500&hcb=2&ved=2ahUKEwjZ5qet_uiPAxXe4zgGHT-lDnEQM3oECBsQAA",
+      "imageHint": "portrait person"
+    },
+    {
+      "id": "avatar-2",
+      "description": "Portrait of a buyer",
+      "imageUrl": "https://www.google.com/imgres?q=potrait%20of%20a%20buyer%20cartoon%20style&imgurl=http%3A%2F%2Ffashion-illustration.eu%2Fwp-content%2Fuploads%2F2015%2F06%2FFashion-blogger_fashionista_fashion-illustration_fashion-illustrator_Yellow-summer_fashion-editor_fashion-business_fashion-buyer_LillyRose_800x600px.png&imgrefurl=http%3A%2F%2Ffashion-illustration.eu%2Fportfolio-items%2Fblue-spring-in-st-tropez-fashion-portrait-illustration-by-lillyrose&docid=ZkktalJckm-KEM&tbnid=rgTP-jMI3dmOLM&vet=12ahUKEwiPvc3t_uiPAxVtxzgGHRv1J7IQM3oECGsQAA..i&w=600&h=800&hcb=2&ved=2ahUKEwiPvc3t_uiPAxVtxzgGHRv1J7IQM3oECGsQAA",
+      "imageHint": "happy person"
+    },
+    {
+      "id": "avatar-3",
+      "description": "Artisan smiling",
+      "imageUrl": "https://www.google.com/imgres?q=Portrait%20of%20an%20artisan&imgurl=https%3A%2F%2Fimg.freepik.com%2Ffree-photo%2Fportrait-indian-man-bazaar_23-2150913334.jpg%3Fsemt%3Dais_incoming%26w%3D740%26q%3D80&imgrefurl=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Findian-artisan&docid=DHAta14mQec_2M&tbnid=4gqKnE3kHHQ4BM&vet=12ahUKEwjZ5qet_uiPAxXe4zgGHT-lDnEQM3oECBcQAA..i&w=740&h=612&hcb=2&ved=2ahUKEwjZ5qet_uiPAxXe4zgGHT-lDnEQM3oECBcQAA",
+      "imageHint": "smiling person"
+    },
+    {
+      "id": "avatar-4",
+      "description": "Buyer looking at art",
+      "imageUrl": "https://www.google.com/imgres?q=Buyer%20looking%20at%20art&imgurl=https%3A%2F%2Flookaside.instagram.com%2Fseo%2Fgoogle_widget%2Fcrawler%2F%3Fmedia_id%3D3490264844094652950&imgrefurl=https%3A%2F%2Fwww.instagram.com%2Fp%2FDBv6WIsS8IW%2F&docid=qcfhqOEo2B5wWM&tbnid=ao3s8NiKLtVxIM&vet=12ahUKEwjyxaaE_-iPAxVv-jgGHa1cODoQM3oECHgQAA..i&w=1440&h=960&hcb=2&itg=1&ved=2ahUKEwjyxaaE_-iPAxVv-jgGHa1cODoQM3oECHgQAA",
+      "imageHint": "person thinking"
+    },
+    {
+      "id": "craft-1",
+      "description": "Patora Cotton Saree",
+      "imageUrl": "https://www.google.com/imgres?q=images%20of%20Patola%20saree%20only%20saree&imgurl=https%3A%2F%2Fkhatrijamnadas.com%2Fcdn%2Fshop%2Ffiles%2FC1530-1_1080x.jpg%3Fv%3D1752431640&imgrefurl=https%3A%2F%2Fkhatrijamnadas.com%2Fproducts%2Fblue-embroidered-patola-saree-in-pure-silk-c1530&docid=1KtIs_a6x86sbM&tbnid=z5UsmyBo3OIehM&vet=12ahUKEwjByM6P9eiPAxWi-DgGHTrPKk0QM3oECBkQAA..i&w=1080&h=1440&hcb=2&ved=2ahUKEwjByM6P9eiPAxWi-DgGHTrPKk0QM3oECBkQAA",
+      "imageHint": "Cotton Saree"
+    },
+    {
+      "id": "craft-2",
+      "description": "Exclusive Silk Patora",
+      "imageUrl": "https://www.google.com/imgres?q=images%20of%20Patola%20saree%20only%20saree&imgurl=http%3A%2F%2Fvarnavastram.com%2Fcdn%2Fshop%2Ffiles%2FIMG_5665.jpg%3Fv%3D1683895360&imgrefurl=https%3A%2F%2Fvarnavastram.com%2Fproducts%2Fdouble-ikkat-patan-patola-inspired-pochampally-silk&docid=9mWFdgmlxZm-LM&tbnid=3PzlWq_BDliZPM&vet=12ahUKEwjByM6P9eiPAxWi-DgGHTrPKk0QM3oECEoQAA..i&w=1536&h=2048&hcb=2&ved=2ahUKEwjByM6P9eiPAxWi-DgGHTrPKk0QM3oECEoQAA",
+      "imageHint": "Silk saree"
+    },
+    {
+      "id": "craft-3",
+      "description": "Flower Vase",
+      "imageUrl": "https://www.google.com/imgres?q=madhubani%20flower%20vase&imgurl=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F91Qbs3HrxVL.jpg&imgrefurl=https%3A%2F%2Fwww.amazon.in%2FMadhubaniHand-Painted-Terracotta-Vase-inch%2Fdp%2FB0B8XDDFVD&docid=v_7WGTEMpDL92M&tbnid=gG9FP2NqlLszgM&vet=12ahUKEwjso-2Z_eiPAxWXwTgGHTYuFbAQM3oECB4QAA..i&w=1920&h=2560&hcb=2&ved=2ahUKEwjso-2Z_eiPAxWXwTgGHTYuFbAQM3oECB4QAA",
+      "imageHint": "Flower Vase"
+    },
+    {
+      "id": "craft-4",
+      "description": "Wall Hanging set",
+      "imageUrl": "https://www.google.com/imgres?q=wall%20hanging%20madhubani%20art&imgurl=http%3A%2F%2Fwww.ritualistic.in%2Fcdn%2Fshop%2Ffiles%2Fdecorative-plates-madhubani-wall-plates-set-of-5-ritualistic-madhubani-iron-wall-art-multicolor-set-of-5-home-decor-painting-divine-intricate-designs-6161139389160-29181639688290.jpg%3Fv%3D1746967709&imgrefurl=https%3A%2F%2Fwww.ritualistic.in%2Fproducts%2Fmadhubani-wall-plates-set-of-5%3Fsrsltid%3DAfmBOoqdGroc1ZsWAKdzkBM2jtM7caLzU3K4fe5kjIl3LuA8od6PrxJr&docid=62REtODvZuQo2M&tbnid=e2t9ZYr9xytK2M&vet=12ahUKEwiw56C4_eiPAxXeyzgGHaBZGGwQM3oECBkQAA..i&w=1000&h=1000&hcb=2&ved=2ahUKEwiw56C4_eiPAxXeyzgGHaBZGGwQM3oECBkQAA",
+      "imageHint": "Wall hanging"
+    },
+    {
+      "id": "craft-5",
+      "description": "Patora Saree",
+      "imageUrl": "https://www.google.com/imgres?q=images%20of%20Patola%20saree%20only%20saree&imgurl=https%3A%2F%2Fkhatrijamnadas.com%2Fcdn%2Fshop%2Ffiles%2FC1650-1_1080x.jpg%3Fv%3D1755775440&imgrefurl=https%3A%2F%2Fkhatrijamnadas.com%2Fcollections%2Fpatola&docid=RfZ5u3BXNdV4zM&tbnid=856L748OGMbuuM&vet=12ahUKEwjByM6P9eiPAxWi-DgGHTrPKk0QM3oECHoQAA..i&w=1080&h=1440&hcb=2&ved=2ahUKEwjByM6P9eiPAxWi-DgGHTrPKk0QM3oECHoQAA",
+      "imageHint": "Saree"
+    },
+    {
+      "id": "craft-6",
+      "description": "Silver earrings",
+      "imageUrl": "https://www.google.com/imgres?q=silver%20earrings&imgurl=http%3A%2F%2Fwww.griiham.in%2Fcdn%2Fshop%2Ffiles%2FSilver-Plated-oxidised-Earrings-Jhumka-Jhumkas-Earrings-Griiham_c2df4249-ad5f-4353-b62d-4da74bd3376c.jpg%3Fv%3D1747816748&imgrefurl=https%3A%2F%2Fwww.griiham.in%2Fproducts%2Fsilver-plated-oxidised-jhumki-earrings-17095n%3Fsrsltid%3DAfmBOophvCJVtNBb6csYNcqxQwGNp2umiAG85T8iCr1djprLmPbpo7xo&docid=vJwaJyCIlQsSOM&tbnid=nJ80Z35wRmeR7M&vet=12ahUKEwjDyLrZ_eiPAxWmyzgGHTVXLEwQM3oECBYQAA..i&w=1080&h=1440&hcb=2&ved=2ahUKEwjDyLrZ_eiPAxWmyzgGHTVXLEwQM3oECBYQAA",
+      "imageHint": "silver earrings"
+    },
+    {
+      "id": "craft-7",
+      "description": "Knitted winter scarf",
+      "imageUrl": "https://www.google.com/imgres?q=knitted%20winter%20scarf&imgurl=https%3A%2F%2Fi.etsystatic.com%2F6210009%2Fr%2Fil%2F4fb723%2F1630974038%2Fil_fullxfull.1630974038_astp.jpg&imgrefurl=https%3A%2F%2Fwww.etsy.com%2Fin-en%2Flisting%2F165983943%2Fred-wool-hand-knitted-winter-scarf-extra&docid=BII4WjnEkv-W4M&tbnid=Etf1xruwDVlQ-M&vet=12ahUKEwjk4bTI_eiPAxUT_aACHZBzJ64QM3oECCAQAA..i&w=1919&h=2253&hcb=2&ved=2ahUKEwjk4bTI_eiPAxUT_aACHZBzJ64QM3oECCAQAA",
+      "imageHint": "knitted scarf"
+    },
+    {
+      "id": "craft-8",
+      "description": "Wooden Utensil set",
+      "imageUrl": "https://www.google.com/imgres?q=pottery%20utensil%20set&imgurl=http%3A%2F%2Fwww.terracottabysachii.com%2Fcdn%2Fshop%2Fproducts%2FKutchHand-PaintedMultiPurposeHoldersLargesetof2_4.jpg%3Fv%3D1670671760&imgrefurl=https%3A%2F%2Fwww.terracottabysachii.com%2Fproducts%2Fhand-painted-kutch-pottery-multi-purpose-holders-set-of-2%3Fsrsltid%3DAfmBOoogblhvSb-ogM_-GytVrkVvhZ9ntLPw5fRIQl5nREjz9OSFzXsz&docid=7GDP-zUYG4kMCM&tbnid=PL-5p12av8JmQM&vet=12ahUKEwjogcb7_eiPAxWlyDgGHVPENcgQM3oECEcQAA..i&w=1024&h=1024&hcb=2&ved=2ahUKEwjogcb7_eiPAxWlyDgGHVPENcgQM3oECEcQAA",
+      "imageHint": "Wooden Utensil set"
+    }
+  ]
+}
